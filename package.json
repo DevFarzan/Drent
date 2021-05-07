@@ -38,7 +38,7 @@
     "react-rating": "^1.6.2",
     "stripe": "^6.15.2",
     "twilio": "^3.29.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "concurrently": "^4.0.1"
